@@ -18,8 +18,8 @@ public class EmodjiGame {
         List<String> contents = List.of("\uD83D\uDE09", "\uD83D\uDE03", "\uD83D\uDE4A", "\uD83D\uDE02");
         game = new Game<>(contents);
 
-
     }
+
     public void choose(Card<String> card){
         game.choose(card);
 

@@ -27,9 +27,9 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(staggeredGridLayoutManager);
         recyclerView.setAdapter(adapter);
     }
+
+
 }
-
-
 
 //        ДЗ / Дедлайн 2 - Июля (Пятница)
 
